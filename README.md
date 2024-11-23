@@ -2,9 +2,23 @@
 
 
 
-## Hi there 👋
+## Hi there 👋 ｡^‿^｡
 
-### This is still under construction! :construction: 
+I'm K, a front-end developer and programmer. I mainly use TypeScript and JavaScript programming languages and the React library for developing web applications. Below are the technology tools I've used for developing applications.
+
+ ### Frontend:
+ [![Frontend](https://skillicons.dev/icons?i=js,ts,react,npm,vercel,vite,vitest,webpack,jest,pug,html,css,sass)](https://skillicons.dev)
+
+### Backend: 
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
+
+### Collaboration Tools:
+[![CollaborationTools](https://skillicons.dev/icons?i=git,github,bash,notion,discord)](https://skillicons.dev)
+
+### IDE & Other Tools
+[![IDE](https://skillicons.dev/icons?i=vscode,obsidian)](https://skillicons.dev)
+
+### This is still under construction! :construction:  \~(￣³￣)\~
 
 While this is under construction, you can instead check my portfolio by clicking the link below. :sunglasses:
 
