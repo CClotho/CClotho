@@ -8,7 +8,7 @@
 
 While this is under construction, you can instead check my portfolio by clicking the link below. :sunglasses:
 
-[Link to portfolio](https://vercel.com/cclothos-projects/my-portfolio)
+[Link to portfolio](https://my-portfolio-tau-two-16.vercel.app/)
 --- 
 
 Or watch the video below showcasing my portfolio. 🧐
