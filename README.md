@@ -1,6 +1,21 @@
+
+
+
+
 ## Hi there 👋
 
-### Under construction ! ! !
+### This is still under construction! :construction: 
+
+While this is under construction, you can instead check my portfolio by clicking the link below. :sunglasses:
+
+[Link to portfolio](https://vercel.com/cclothos-projects/my-portfolio)
+--- 
+
+Or watch the video below showcasing my portfolio. 🧐
+
+https://github.com/user-attachments/assets/aff5701e-bf69-4e12-b77a-e085d60fa0de
+
+
 
 <!--
 **CClotho/CClotho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
