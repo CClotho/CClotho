@@ -7,7 +7,7 @@
 I'm K, a front-end developer and programmer. I mainly use TypeScript and JavaScript programming languages and the React library for developing web applications. Below are the technology tools I've used for developing applications.
 
  ### Frontend:
- [![Frontend](https://skillicons.dev/icons?i=js,ts,react,npm,vercel,vite,vitest,webpack,jest,pug,html,css,sass)](https://skillicons.dev)
+ [![Frontend](https://skillicons.dev/icons?i=js,ts,react,vue,npm,vercel,vite,vitest,webpack,jest,pug,html,css,sass,tailwind)](https://skillicons.dev)
 
 ### Backend: 
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
